@@ -9,7 +9,7 @@ I love learning, building real-world projects, and collaborating on creative tec
 ### 🌱 I’m currently learning
 - React Native & Flutter UI/UX optimization  
 - Business Intelligence (BI) and Data Analysis  
-- ata visualization and dashboards
+- Data visualization and dashboards
 
 ---
 
