@@ -15,7 +15,8 @@ I love learning, building real-world projects, and collaborating on creative tec
 
 ### 📫 How to reach me
 - **Email:** firdaws7303@gmail.com  
-- **LinkedIn:**  LinkedIn
+- **LinkedIn:**  🔗 [LinkedIn](https://www.linkedin.com/in/firdawsse-ahchouche-1b7668230)
+
 
 ---
 
