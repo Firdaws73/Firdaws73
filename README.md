@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi there, I'm Firdawsse Ahchouche!
 
-<!--
-**Firdaws73/Firdaws73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm an **Engineering student specializing in Computer Science**, passionate about **software development**, **BI**, and **innovative technologies**.  
+I love learning, building real-world projects, and collaborating on creative tech ideas 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- React Native & Flutter UI/UX optimization  
+- Business Intelligence (BI) and Data Analysis  
+- ata visualization and dashboards
+
+---
+
+### 📫 How to reach me
+- **Email:** firdaws7303@gmail.com  
+- **LinkedIn:**  LinkedIn
+
+---
+
+### ⚡ Fun fact
+I love solving real-life problems with tech, exploring new frameworks, and adding a touch of creativity to every project 💡
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my projects and leave a star if you like them!* 🌟
