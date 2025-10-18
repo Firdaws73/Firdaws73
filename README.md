@@ -16,10 +16,10 @@ I love **learning**, **building projects**, and **turning ideas into reality** �
 ### 🛠 Tech Stack
 
 #### 💻 Languages & Frameworks
-🐍 Python | ☕ Java | 💻 C | 🟨 JavaScript | 🐘 PHP | 🌐 HTML | 🎨 CSS | ⚛️ ReactJS | 🟢 NodeJS | 🕸 Django | 📱 Expo  
+🐍 Python | ☕ Java | 💻 C | 🟨 JavaScript | 🐘 PHP | 🌐 HTML | 🎨 CSS | ⚛️ ReactJS | 🟢 NodeJS | 🕸 Django 
 
 #### 🗄 Databases & Tools
-🗃 MySQL | 🐘 PostgreSQL | 🍃 MongoDB | 📊 Power BI | 🎨 Canva | 🎨 Figma | 🤖 Arduino | 🐳 Docker | 🧰 Git | 🐱 GitHub  
+ 📊 Power BI | 🗃 MySQL | 🐘 PostgreSQL | 🍃 MongoDB | 🎨 Canva | 🎨 Figma | 🤖 Arduino | 🐳 Docker  
 
 #### 🔗 Blockchain & Web3
 🔐 Solidity | ⛓ Ethereum  
