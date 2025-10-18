@@ -1,28 +1,37 @@
-## 👋 Hi there, I'm Firdawsse Ahchouche!
+## 👋 Hey there, I'm Firdawsse Ahchouche!
 
-Welcome to my GitHub profile!  
-I'm an **Engineering student specializing in Computer Science**, passionate about **software development**, **BI**, and **innovative technologies**.  
-I love learning, building real-world projects, and collaborating on creative tech ideas 🚀  
-
----
-
-### 🌱 I’m currently learning
-- React Native & Flutter UI/UX optimization  
-- Business Intelligence (BI) and Data Analysis  
-- Data visualization and dashboards
+Welcome to my GitHub profile! 🎉  
+I'm an **Engineering student in Computer Science**, passionate about **software development**, **BI**, and all things **innovative tech**.  
+I love **learning**, **building projects**, and **turning ideas into reality** 🚀✨
 
 ---
 
-### 📫 How to reach me
-- **Email:** firdaws7303@gmail.com  
-- **LinkedIn:**  🔗 [LinkedIn](https://www.linkedin.com/in/firdawsse-ahchouche-1b7668230)
-
-
----
-
-### ⚡ Fun fact
-I love solving real-life problems with tech, exploring new frameworks, and adding a touch of creativity to every project 💡
+### 🌱 Currently Exploring
+- 📱 **React Native & Flutter** – UI/UX magic  
+- 📊 **Business Intelligence & Data Analysis** – making sense of data  
+- 📈 **Data Visualization & Dashboards** – turning numbers into stories  
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my projects and leave a star if you like them!* 🌟
+### 🛠 Tech Stack
+
+#### 💻 Languages & Frameworks
+🐍 Python | ☕ Java | 💻 C | 🟨 JavaScript | 🐘 PHP | 🌐 HTML | 🎨 CSS | ⚛️ ReactJS | 🟢 NodeJS | 🕸 Django | 📱 Expo  
+
+#### 🗄 Databases & Tools
+🗃 MySQL | 🐘 PostgreSQL | 🍃 MongoDB | 📊 Power BI | 🎨 Canva | 🎨 Figma | 🤖 Arduino | 🐳 Docker | 🧰 Git | 🐱 GitHub  
+
+#### 🔗 Blockchain & Web3
+🔐 Solidity | ⛓ Ethereum  
+
+✨ Always mixing creativity with tech to **build fun, real-world projects**! 🎨💡
+
+---
+
+### 📫 Let's Connect
+- 📧 Email: [firdaws7303@gmail.com](mailto:firdaws7303@gmail.com)  
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/firdawsse-ahchouche-1b7668230)
+
+---
+
+⭐ Thanks for stopping by! Feel free to **explore my projects, leave a star**, or just say hi! ✨🌟
